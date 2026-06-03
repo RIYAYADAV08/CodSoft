@@ -8,6 +8,8 @@
 
 This repository contains three mini projects created during my C++ internship training at Codesoft.
 These projects helped me strengthen my fundamentals of C++ syntax, control structures, and functions.
+
+
 🧾 To-Do List
 
 A console-based task manager to add, view, and delete daily tasks.
